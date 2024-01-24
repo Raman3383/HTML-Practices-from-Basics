@@ -1,2 +1,1 @@
-# conestoga_Test
-This is test repo for conestoga
+These are my practices for HTML, CSS, JQuery, AND js 
